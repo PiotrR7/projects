@@ -52,7 +52,11 @@ html,body{
 
 
 
-@media screen and (max-width:1000px){
+@media screen and (max-width:1200px){
+    html,body{
+        background: linear-gradient(to bottom, red , orange );
+    }
+    
     .tloPrzyciskow{
         width: 80%;
     }
