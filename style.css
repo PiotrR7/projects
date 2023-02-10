@@ -61,3 +61,10 @@ html,body{
         width: 80%;
     }
 }
+
+@media screen and (max-width:300px){
+    .przycisk{
+        width: 60%;
+    }
+    
+}
