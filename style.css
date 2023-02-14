@@ -60,11 +60,8 @@ html,body{
     .tloPrzyciskow{
         width: 80%;
     }
-}
 
-@media screen and (max-width:300px){
     .przycisk{
-        width: 60%;
+        width: 80%;
     }
-    
 }
