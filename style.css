@@ -34,6 +34,10 @@ html,body{
 }
 
 @media screen and (max-width: 1500px){
+    html,body{
+        height: max-content;
+    }
+
     .container{
         width: 80%;
         margin-top: 5%;
